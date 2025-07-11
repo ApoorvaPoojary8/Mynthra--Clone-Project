@@ -48,8 +48,7 @@ Mynthra--Clone-Project/
 
 ## 🌐 Live Preview
 
-> *(Coming soon...)*  
-You can deploy this on GitHub Pages or Netlify for public sharing.
+https://apoorvapoojary8.github.io/Mynthra--Clone-Project/
 
 
 ## 🧠 What I Learned
